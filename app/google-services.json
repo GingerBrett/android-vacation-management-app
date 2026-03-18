@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "662430157873",
+    "project_id": "wgu-capstone-18cb4",
+    "storage_bucket": "wgu-capstone-18cb4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662430157873:android:dbedf568c76d98d1629910",
+        "android_client_info": {
+          "package_name": "com.mousser.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFhuXPZALkdwEjnHXzkrVMpGju64Y2Ocg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
